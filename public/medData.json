@@ -1,0 +1,63 @@
+[
+    {
+        "id":"001",
+        "title":"Chyabanprash",
+        "description":"Hamdard Chyabanprash is an ideal tonic of the east, containing valuable natural ingredients, fortified with honey, prepared with the ancient wisdom and modern research & technology. Hamdard Chyabanprash keeps you physically fit and mentally alert.",
+        "indications":"strengthens the vital organs, improves the immunity",
+        "img":"https://i.ibb.co/TYtzFfL/chybanprash.jpg"
+    },
+    {
+        "id":"002",
+        "title":"Balarista",
+        "description":"Hamdard Balarista is an amazing combination of rejuvenating, energizing and vitaminised medicinal plants. It relieves malnutrition, strengthens the nerves and muscles. Balarista strengthens the vital organs, prevents general debility, mental debility & anorexia and helps to increase body weight. It is very effective in the treatment of rheumatism.",
+        "indications":"Malnutrition, General debility, Loss of weight, Anorexia",
+        "img":"https://i.ibb.co/kHYMW39/balarista1.jpg"
+    },
+    {
+        "id":"003",
+        "title":"Capsule Lina",
+        "description":"Lina is a unique preparation of standardized powder of Spirulina. Spirulina is blue green algae. It contains carbohydrate, proteins, vitamins (vitamin A, B-complex vitamins, and vitamin E), minerals (selenium, zinc, iron, copper, calcium manganese, potassium, and magnesium), gamma linolenic acid, and calcium spirulan.",
+        "indications":"Immune deficiency, Weakness of vital organs, Anemia",
+        "img":"https://i.ibb.co/Fbdq1Kx/lina.jpg"
+    },
+    {
+        "id":"004",
+        "title":"Capsule Jonort",
+        "description":"Jonort is a unique preparation of standardized extract of St. john’s Wort, which is widely used as effective herbal medicine in the treatment of depression. The major active constituents of St. john’s Wort are hypericin, hyperforin, hyperoside, quercitrin and rich in vitamin C.",
+        "indications":"Depression, Insomnia, Seasonal Affective Disorder",
+        "img":"https://i.ibb.co/YthXRww/jonort.jpg"
+    },
+    {
+        "id":"005",
+        "title":"Syrup Alkuli",
+        "description":"Alkuli is a time tested modern unani medicine, prepared with Chicory (Cichorium endivia) root & seed, Small Caltrops (Tribulus terrestris), Fennel (Foeniculum vulgare) root & seed and others valuable natural ingredients. Alkuli acts as prebiotic, antioxidant, febrifuge, diuretic and also acts as detoxifier and cleanser of liver and kidney.",
+        "indications":"Pyrexia, Annuria, Oliguria, Amenorrhoea, Hepatitis",
+        "img":"https://i.ibb.co/gmpcBVX/alkuli.jpg"
+    },
+    {
+        "id":"006",
+        "title":"Syrup Cinkara",
+        "description":"Cinkara is a non-alcoholic vitaminised herbal tonic of proven bioavailability in mental performance, anemia of pregnancy, lactating mothers and liver protection. Cinkara can be used as a tonic in all seasons by the whole family. It provides optimum quantities of essential minerals, trace elements & vitamins required by the body.",
+        "indications":"General debility, Anaemia of pregnancy, Hypolactation",
+        "img":"https://i.ibb.co/0VdzhMv/cinkara.jpg"
+    },
+    {
+        "id":"007",
+        "title":"Syrup Fevnil",
+        "description":"Fevnil is a unique combination of valuable natural ingredients. The main ingredient of Fevnil Wild Mustard (Sisymbrium irio) contains sinigrin which acts as febrifuge, antibacterial (especially effective against Salmonella typhi, Salmonella paratyphi) and antiviral. Fevnil is very effective in typhoid, paratyphoid, measles & chicken pox.",
+        "indications":"Fever, Influenza, Typhoid, Paratyphoid, Measles, Chickenpox",
+        "img":"https://i.ibb.co/5Kkzkxg/fevnil.jpg"
+    },
+    {
+        "id":"008",
+        "title":"Syrup Marbelus",
+        "indications":"Marbelus is a unique combination of Bael (Aegle marmelos) fruit and Connessi (Holarrhena antidysenterica) bark, which is highly effective in diarrhoea, dysentery (Amoebic & Bacillary dysentery), giardiasis and helminthiasis. Marbelus relieves drug induced gastrointestinal troubles. Marbelus acts against various pathogenic microbes",
+        "img":"https://i.ibb.co/5R96tvX/marbelus.jpg"
+    },
+    {
+        "id":"009",
+        "title":"Trifala Churna",
+        "indications":"Trifala Churna is the combination of Emblic Myrobalan (Phyllanthus emblica), ChebulicMyrobalan (Terminalia chebula) & Belleric Myrobalan (Terminalia bellerica ). It is highly effective in indigestion, diabetes, constipation and anorexia. It is a tonic for all vital organs of the body.",
+        "img":"https://i.ibb.co/YLJPQNd/trifala.jpg"
+    }
+]
