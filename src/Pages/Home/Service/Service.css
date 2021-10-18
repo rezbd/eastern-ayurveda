@@ -1,0 +1,10 @@
+.medicine{
+    background-color: rgb(190, 190, 190);
+    border-radius: 15px;
+    padding: 15px;
+}
+
+.medicine-img{
+    width: 100%;
+}
+
