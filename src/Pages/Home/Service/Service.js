@@ -7,8 +7,8 @@ const Service = ({ service }) => {
         <div className="medicine">
             <img className="medicine-img" src={img} alt="" />
             <h3>{title}</h3>
-            <h5>{description}</h5>
-            <button>Details</button>
+            <p>{description}</p>
+            <button className="btn btn-warning">Details</button>
         </div>
     );
 };
