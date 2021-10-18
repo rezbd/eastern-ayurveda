@@ -51,13 +51,15 @@
     {
         "id":"008",
         "title":"Syrup Marbelus",
-        "indications":"Marbelus is a unique combination of Bael (Aegle marmelos) fruit and Connessi (Holarrhena antidysenterica) bark, which is highly effective in diarrhoea, dysentery (Amoebic & Bacillary dysentery), giardiasis and helminthiasis. Marbelus relieves drug induced gastrointestinal troubles. Marbelus acts against various pathogenic microbes",
+        "description":"Marbelus is a unique combination of Bael (Aegle marmelos) fruit and Connessi (Holarrhena antidysenterica) bark, which is highly effective in diarrhoea, dysentery (Amoebic & Bacillary dysentery), giardiasis and helminthiasis. Marbelus relieves drug induced gastrointestinal troubles. Marbelus acts against various pathogenic microbes",
+        "indications":"Diarrhoea, Amoebiasis, Shigellosis, Giardiasis, Indigestion",
         "img":"https://i.ibb.co/5R96tvX/marbelus.jpg"
     },
     {
         "id":"009",
         "title":"Trifala Churna",
-        "indications":"Trifala Churna is the combination of Emblic Myrobalan (Phyllanthus emblica), ChebulicMyrobalan (Terminalia chebula) & Belleric Myrobalan (Terminalia bellerica ). It is highly effective in indigestion, diabetes, constipation and anorexia. It is a tonic for all vital organs of the body.",
+        "description":"Trifala Churna is the combination of Emblic Myrobalan (Phyllanthus emblica), ChebulicMyrobalan (Terminalia chebula) & Belleric Myrobalan (Terminalia bellerica ). It is highly effective in indigestion, diabetes, constipation and anorexia. It is a tonic for all vital organs of the body.",
+        "indications":"Constipation, Anorexia, Diabetes, Hypertention",
         "img":"https://i.ibb.co/YLJPQNd/trifala.jpg"
     }
 ]
