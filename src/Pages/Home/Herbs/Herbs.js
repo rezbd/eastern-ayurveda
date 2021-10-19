@@ -26,7 +26,7 @@ const herbs = [
 
 const Herbs = () => {
     return (
-        <div className="container mt-5">
+        <div id="herbs" className="container mt-5">
             <h2>Special Ayurvedic Herbs</h2>
             <div className="row">
                 {
