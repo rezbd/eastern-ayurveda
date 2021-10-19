@@ -1,10 +1,20 @@
+// console.log(process.env);
+/* const firebaseConfig = {
+    apiKey: process.env.REACT_APP_FIREBASE_API_KEY,
+    authDomain: process.env.REACT_APP_FIREBASE_AUTH_DOMAIN,
+    projectId: process.env.REACT_APP_FIREBASE_PROJECT_ID,
+    storageBucket: process.env.REACT_APP_FIREBASE_STORAGE_BUCKET,
+    messagingSenderId: process.env.REACT_APP_FIREBASE_MESSAGING_SENDER_ID,
+    appId: process.env.REACT_APP_FIREBASE_APP_ID
+}; */
+
 const firebaseConfig = {
-    apiKey: "AIzaSyByv3ELfLSof6nK0WvwIbLyVx6MAvcmkzo",
-    authDomain: "eastern-ayurveda.firebaseapp.com",
-    projectId: "eastern-ayurveda",
-    storageBucket: "eastern-ayurveda.appspot.com",
-    messagingSenderId: "847471640868",
-    appId: "1:847471640868:web:1cda427d3840f286f6f3b1"
+    apiKey: "AIzaSyAVlCZZ4veMV0fv3YsQjdeU_DAu72g6ZX8",
+    authDomain: "simple-firebase-authenti-d681b.firebaseapp.com",
+    projectId: "simple-firebase-authenti-d681b",
+    storageBucket: "simple-firebase-authenti-d681b.appspot.com",
+    messagingSenderId: "644813802771",
+    appId: "1:644813802771:web:9e6fb5150e902ab6fb5ee6"
 };
 
 export default firebaseConfig;
