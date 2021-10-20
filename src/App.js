@@ -12,6 +12,8 @@ import Header from './Pages/Shared/Header/Header';
 import AuthProvider from './contexts/AuthProvider';
 import PrivateRoute from './Pages/Login/PrivateRoute/PrivateRoute';
 import Footer from './Pages/Shared/Footer/Footer';
+import Membership from './Pages/Membership/Mebership';
+import Faq from './Pages/Faq/Faq';
 
 function App() {
   return (
@@ -31,6 +33,12 @@ function App() {
             </Route>
             <PrivateRoute path="/details/:serviceId">
               <Details></Details>
+            </PrivateRoute>
+            <PrivateRoute path="/membership">
+              <Membership></Membership>
+            </PrivateRoute>
+            <PrivateRoute path="/faq">
+              <Faq></Faq>
             </PrivateRoute>
             <Route path="*">
               <Error></Error>
