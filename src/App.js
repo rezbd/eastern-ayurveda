@@ -12,7 +12,7 @@ import Header from './Pages/Shared/Header/Header';
 import AuthProvider from './contexts/AuthProvider';
 import PrivateRoute from './Pages/Login/PrivateRoute/PrivateRoute';
 import Footer from './Pages/Shared/Footer/Footer';
-import Membership from './Pages/Membership/Mebership';
+import Membership from './Pages/Membership/Membership';
 import Faq from './Pages/Faq/Faq';
 
 function App() {

@@ -16,7 +16,7 @@ const Stats = () => {
                 <div className="row g-3">
                     <div className="col-12 col-lg-4">
                         <div className="p-3 border bg-stats shadow">
-                            <h1 className="stats-header">100%</h1>
+                            <h1 className="stats-header">99.9%</h1>
                             <p className="stats-p">Customer Satisfaction</p>
                         </div>
                     </div>
@@ -28,7 +28,7 @@ const Stats = () => {
                     </div>
                     <div className="col-12 col-lg-4">
                         <div className="p-3 border bg-stats shadow">
-                            <h1 className="stats-header">110K</h1>
+                            <h1 className="stats-header">113K</h1>
                             <p className="stats-p">Deliveries</p>
                         </div>
                     </div>
